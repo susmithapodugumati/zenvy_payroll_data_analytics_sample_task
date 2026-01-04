@@ -1,5 +1,5 @@
 Dashboard Overview
- ![Uploading image.png…]()
+![Uploading Screenshot 2026-01-04 223751.png…]()
 
 Figure 1: HR & Payroll Intelligence Dashboard displaying key payroll KPIs, risk indicators, and workforce insights.
 This dashboard was developed to provide a consolidated view of ZENVY’s payroll and HR data. It focuses on monitoring payroll efficiency, detecting anomalies such as salary leakage and overtime misuse, and supporting management with data-driven insights for better workforce planning.
